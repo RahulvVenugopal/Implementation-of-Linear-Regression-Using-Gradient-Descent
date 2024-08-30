@@ -59,7 +59,7 @@ else:
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![ex3output](https://github.com/user-attachments/assets/2fd40215-11ca-4193-b4de-c69b40a23249)
 
 
 ## Result:
